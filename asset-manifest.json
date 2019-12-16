@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/st-test-app-demo/static/css/main.12756b65.chunk.css",
+    "main.js": "/st-test-app-demo/static/js/main.91dfe77e.chunk.js",
+    "main.js.map": "/st-test-app-demo/static/js/main.91dfe77e.chunk.js.map",
+    "runtime-main.js": "/st-test-app-demo/static/js/runtime-main.beaed8f2.js",
+    "runtime-main.js.map": "/st-test-app-demo/static/js/runtime-main.beaed8f2.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/st-test-app-demo/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.04a3c566.chunk.js": "/st-test-app-demo/static/js/2.04a3c566.chunk.js",
+    "static/js/2.04a3c566.chunk.js.map": "/st-test-app-demo/static/js/2.04a3c566.chunk.js.map",
+    "index.html": "/st-test-app-demo/index.html",
+    "precache-manifest.fc9e26894ddb5a2e1798f45268e259f7.js": "/st-test-app-demo/precache-manifest.fc9e26894ddb5a2e1798f45268e259f7.js",
+    "service-worker.js": "/st-test-app-demo/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/st-test-app-demo/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.12756b65.chunk.css.map": "/st-test-app-demo/static/css/main.12756b65.chunk.css.map",
+    "static/js/2.04a3c566.chunk.js.LICENSE": "/st-test-app-demo/static/js/2.04a3c566.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beaed8f2.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.04a3c566.chunk.js",
+    "static/css/main.12756b65.chunk.css",
+    "static/js/main.91dfe77e.chunk.js"
+  ]
+}
