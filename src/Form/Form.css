@@ -1,0 +1,12 @@
+.form {
+    display: flex;
+    margin-top: 20px;
+}
+.form__company, .form__adress, .form__owner, .form__type, .form__active {
+    width: 120px;
+    padding: 5px;
+}
+.buttonsContainer {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    font-size: 25px;
+    text-align: center;
+}
+.header__adress, .header__name, .header__type, .header__empty, .header__host, .header__active {
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-left: none;
+}
+.header__empty {
+    width: 100px;
+}
+.header__name {
+    border-left: 1px solid black;
+}

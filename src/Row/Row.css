@@ -1,0 +1,44 @@
+.row {
+    display: flex;
+    border: 1px solid orange;
+    width: 780px;
+    margin-left: 0 !important;
+    margin-top: 10px;
+}
+.row__company, .row__adress, .row__owner, .row__active, .row__type {
+    font-size: 18px;
+    word-wrap: break-word;
+    text-align: center;
+    padding: 5px;
+}
+.row__company {
+    width: 128px;
+}
+.row__adress {
+    width: 134px
+}
+.row__owner {
+    width: 134px;
+}
+.row__active {
+    width: 142px;
+}
+.row__type  {
+    width: 114px;
+}
+.row__buttonsContainer {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row__buttonEdit, .row__buttonDelete {
+    width: 60px;
+    padding: 8px;
+    margin-left: 20px;
+}
+.row__buttonDelete {
+    margin-top: 10px;
+}
